@@ -12,15 +12,23 @@ public class StartPanel : MonoBehaviour
     {
         
         EventCenter.AddListener<bool>(EventDefine.IsShowStartPanel, Show);
-        transform.Find("Btn_Start").GetComponent<Button>().onClick.AddListener(() =>
+        transform.Find("Btn_OnlineLearning").GetComponent<Button>().onClick.AddListener(() =>
         {
             startPanel.SetActive(false);
             EventCenter.Broadcast(EventDefine.ShowProcessing);
             
-            PlayerPrefs.SetString("CharacterName", m_Character);
-            
-            
+            PlayerPrefs.SetString("CharacterName", m_Character);  
         });
+
+        transform.Find("Btn_Practise").GetComponent<Button>().onClick.AddListener(() => 
+        {
+            startPanel.SetActive(false);
+            EventCenter.Broadcast(EventDefine.ShowPractiseProcessing);
+
+            PlayerPrefs.SetString("CharacterName", m_Character);
+
+        });
+
         EventCenter.AddListener<string>(EventDefine.OnCharacterChoose,OnCharacterChoose);
         transform.Find("Btn_Choose").GetComponent<Button>().onClick.AddListener(()=> 
         {

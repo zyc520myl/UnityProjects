@@ -5,4 +5,5 @@
     IsShowStartPanel,
     OnCharacterChoose,
     ShowProcessing,
+    ShowPractiseProcessing,
 }

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2304BAD1-C9FB-2554-DB78-C4E476254F67}</ProjectGuid>
+    <ProjectGuid>{98D6D098-8088-A13A-7A68-3BD73D2F4B67}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -214,6 +214,7 @@
     <Compile Include="Assets\Scripts\UI\CharacterChoosePanel.cs" />
     <Compile Include="Assets\Scripts\UI\CharacterChooseToggle.cs" />
     <Compile Include="Assets\Scripts\UI\LoadProcessing.cs" />
+    <Compile Include="Assets\Scripts\UI\LoadProcessingPractiseScene.cs" />
     <Compile Include="Assets\Scripts\UI\StartPanel.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
@@ -699,31 +700,31 @@
     <None Include="Assets\Photon Unity Networking\changelog.txt" />
     <None Include="Assets\SteamVR\InteractionSystem\Readme_InteractionSystem.txt" />
     <Reference Include="Unity.DocZh.Editor">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Library/ScriptAssemblies/Unity.DocZh.Editor.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.DocZh.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.UIWidgets.Editor">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Library/ScriptAssemblies/Unity.UIWidgets.Editor.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.UIWidgets.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.UIWidgets">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Library/ScriptAssemblies/Unity.UIWidgets.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.UIWidgets.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.024">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.024.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.024.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/UnityAll/2018.4.25f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -927,19 +928,19 @@
       <HintPath>E:/UnityAll/2018.4.25f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Assets/Plugins/Photon3Unity3D.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Assets/Plugins/Photon3Unity3D.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>E:/GitHubFile/UnityProjects/VR Connection(1)/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>E:/UnityAll/2018.4.25f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -1289,7 +1290,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{2EAC8DFA-3DDC-3CF2-FD49-10C5C67243DE}</Project>
+      <Project>{753C66D2-FDFA-4494-001A-C71F37F1E740}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
