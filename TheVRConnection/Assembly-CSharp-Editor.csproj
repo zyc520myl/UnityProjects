@@ -102,31 +102,31 @@
     <Compile Include="Assets\VRTK\Source\Editor\VRTK_SupportInfoWindow.cs" />
     <Compile Include="Assets\VRTK\Source\Editor\VRTK_UpdatePrompt.cs" />
     <Reference Include="Unity.DocZh.Editor">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.DocZh.Editor.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.DocZh.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.UIWidgets.Editor">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.UIWidgets.Editor.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.UIWidgets.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.UIWidgets">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.UIWidgets.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.UIWidgets.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.024">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.024.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.024.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/UnityAll/2018.4.25f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -366,25 +366,25 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Assets/Plugins/Photon3Unity3D.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Assets/Plugins/Photon3Unity3D.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>E:/GitHubFile/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>E:/UnityAll/Connection/UnityProjects/TheVRConnection/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>E:/UnityAll/2018.4.25f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

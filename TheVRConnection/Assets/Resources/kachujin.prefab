@@ -1212,16 +1212,16 @@ MonoBehaviour:
       bones: []
       target: {fileID: 0}
       bendGoal: {fileID: 0}
-      positionWeight: 0
-      rotationWeight: 0
+      positionWeight: 1
+      rotationWeight: 1
       bendGoalWeight: 0
       swivelOffset: 0
     rightLeg:
       bones: []
       target: {fileID: 0}
       bendGoal: {fileID: 0}
-      positionWeight: 0
-      rotationWeight: 0
+      positionWeight: 1
+      rotationWeight: 1
       bendGoalWeight: 0
       swivelOffset: 0
     locomotion:
